@@ -4,9 +4,17 @@ import './header.css'
 class Header extends Component {
     render() {
         return (
-            <header>
-                <h1 className='header'>Here is some Header</h1>
-                <h1 className='header'>Здесь будет заголовок</h1>
+            <header className="main__header">
+                <nav className="main__nav">
+                    <ul className="main__nav__list">
+                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
+                    </ul>
+                </nav>
             </header>
         )
     }
