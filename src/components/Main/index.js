@@ -1,10 +1,13 @@
 import React , { Component }from 'react';
-
+import Category from './Category'
+import './main.css'
 
 class Main extends Component {
     render() {
         return (
-            <h1>Here is some Main Content</h1>
+            <main className="main__content">
+                <Category />
+            </main>
         )
     }
 }
