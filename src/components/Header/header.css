@@ -15,12 +15,14 @@
 }
 .main__nav__item {
     display: block;
+    flex:1;
 }
 .main__nav__link{
     display: block;
     color:#fff;
     text-decoration: none;
     padding:15px 20px;
+    text-align: center;
 }
 
 .main__nav__link:hover{
