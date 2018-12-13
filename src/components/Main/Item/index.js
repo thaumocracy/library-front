@@ -5,6 +5,7 @@ import './item.css'
 
 const Item = (props) => {
     const { title , author , image , description , finished } = props.package;
+    const displayDescription = description.substr(0,140);
     let style = {}
     if(finished){
         style = {"color":"green"}
@@ -16,7 +17,7 @@ const Item = (props) => {
             <div className="item__inner">
                 <img src={image} alt="Item" className='item__image item__left'/>
                 <p className="item__description item__right">
-                    {description}
+                    {displayDescription}
                 </p>
             </div>
         </div>
