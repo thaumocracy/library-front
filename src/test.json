@@ -168,6 +168,198 @@
         "description" : "Деревенский мальчишка Пип рано теряет родителей, и его воспитывает деспотичная старшая сестра. Все кардинально меняется, когда Пип соглашается помочь сбежавшему каторжнику. Теперь жизнь Пипа - большие надежды и большие разочарования, любовь и презрение, богатство и новые знакомства… Но придется ли такая жизнь по нраву простому честному мальчишке?"
     },
     {
+        "id":"22",
+        "title":"Маленькие женщины",
+        "author":"Луиза Мэй Олкотт",
+        "image" : "https://cdn.eksmo.ru/v2/ITD000000000267655/COVER/cover1__w600.jpg",
+        "finished" : false,
+        "description" : "Наиболее известная повесть американской писательницы Луизы Мэй Олкотт рассказывает о четырех таких разных сестрах семейства Марч: Мег - самая \"правильная\" и романтичная, Джо - настоящий сорванец в юбке. Бет - тихоня с добрейшим сердцем, а младшая, Эми, - легкомысленная, кокетливая, но по-своему мудрая.В Америке идет Гражданская война, и семье Марч приходится нелегко: отец воюет, а вся забота о доме ложится на плечи матери. Но девочки не унывают. Они стараются сообща справляться с трудностями, вместе проходят через радости и горести, мечтают о будущем и постигают нелегкую науку взросления."
+    },
+    {
+        "id":"23",
+        "title":"Мандолина капитана Корелли",
+        "author":"Луи де Берньер",
+        "image" : "https://cdn.ast.ru/v2/ASE000000000835552/COVER/cover1.jpg",
+        "finished" : false,
+        "description" : "Древний остров Кефалония помнит многих воинов: хитроумного Одиссея и его соратников-ахейцев, гордых эллинов на триерах, римлян с их железной поступью, искушенных в интригах византийцев, жестоких турецких поработителей... И теперь под оливы Кефалонии, где жизнь текла мирно и весело, как горный ручеек, снова пришла война. Страшная, беспощадная Вторая мировая. Итальянские войска оккупировали остров, и уютный мир кефалонийцев распался на \"до\" и \"после\". Таков фон, на котором предстоит разыграться истории итальянского капитана Антонио Корелли и юной дочери местного врача Пелагии. Истории страстной, всепоглощающей любви, которую мужчине и женщине суждено пронести через всю жизнь и через все выпавшие на их долю испытания тяжких военных лет."
+    },
+    {
+        "id":"24",
+        "title":"Война и мир",
+        "author":"Лев Толстой",
+        "image" : "https://godliteratury.ru/wp-content/uploads/2015/12/voyna-i-mir.jpg",
+        "finished" : true,
+        "description" : "ВОЙНА И МИР Л.Н.Толстого — книга на все времена. Кажется, что она существовала всегда, настолько знакомым кажется текст, едва мы открываем первые страницы романа, настолько памятны многие его эпизоды: охота и святки, первый бал Наташи Ростовой, лунная ночь в Отрадном, князь Андрей в сражении при Аустерлице... Сцены \"мирной\", семейной жизни сменяются картинами, имеющими значение для хода всей мировой истории, но для Толстого они равноценны, связаны в едином потоке времени. Каждый эпизод важен не только для развития сюжета, но и как одно из бесчисленных проявлений жизни, которая насыщена в каждом своем моменте и которую учит любить Толстой."
+    },
+    {
+        "id":"25",
+        "title":"Унесённые ветром",
+        "author":"Маргарет Митчелл",
+        "image" : "https://i.livelib.ru/boocover/1000115092/200/0a7a/Margaret_Mitchell__Unesennye_vetrom.jpg",
+        "finished" : false,
+        "description" : "Великая сага о Гражданской войне в США и о судьбе своенравной и готовой идти по головам Скарлетг О'Хара была впервые опубликована 70 лет назад и не устаревает по сей день. \"Унесенные ветром\" - единственный роман Маргарет Митчелл, за который она - писательница, эмансипе и защитница прав женщин - получила Пулитцеровскую премию. Эта книга о том, что любовь к жизни бывает важнее любви; потом, когда рывок к выживанию успешно завершен, любовь становится предпочтительнее, но без жизнелюбия умирает и она."
+    },
+    {
+        "id":"26",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    }, 
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
+        "id":"#",
+        "title":"Title",
+        "author":"Author",
+        "image" : "",
+        "finished" : false,
+        "description" : "Description"
+    },
+    {
         "id":"#",
         "title":"Title",
         "author":"Author",
@@ -215,4 +407,5 @@
         "finished" : false,
         "description" : "Description"
     }
+
 ]

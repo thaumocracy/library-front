@@ -5,7 +5,7 @@ import './item.css'
 
 const Item = (props) => {
     const { title , author , image , description , finished } = props.package;
-    const displayDescription = description.substr(0,140);
+    const displayDescription = description.substr(0,240);
     let style = {}
     if(finished){
         style = {"color":"green"}
