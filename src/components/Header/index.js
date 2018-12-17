@@ -7,12 +7,12 @@ class Header extends Component {
             <header className="main__header">
                 <nav className="main__nav">
                     <ul className="main__nav__list">
-                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="#" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="/please" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="/stop" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="/warning" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="/me" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="/bloody" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="/webpack" className="main__nav__link">Link text</a></li>
                     </ul>
                 </nav>
             </header>

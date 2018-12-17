@@ -5,15 +5,15 @@
     display: flex;
     flex-direction: column;
     font-family: 'Merriweather', serif;
-    color:#444444
+    color:#444444;
+    border-bottom:2px solid darkcyan;
 }
 
 .item__image {
     height:auto;
-
     /* height:165px; */
-
 }
+
 .item__title{
     text-align: center;
 }
@@ -26,8 +26,12 @@
 .item__left {
     width:30%;
     padding:10px;
+    transition:0.3s;
 }
-
+.item__left:hover{
+    padding:0;
+    width:calc(30% + 20px);
+}
 .item__right {
     width:70%;
     padding:10px;
