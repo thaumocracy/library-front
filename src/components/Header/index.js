@@ -10,7 +10,7 @@ class Header extends Component {
                         <li className="main__nav__item"><a href="/please" className="main__nav__link">Link text</a></li>
                         <li className="main__nav__item"><a href="/stop" className="main__nav__link">Link text</a></li>
                         <li className="main__nav__item"><a href="/warning" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="/me" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><input onChange={(event) => this.props.handleSearch(event)} type="search" className="main__nav__link"/></li>
                         <li className="main__nav__item"><a href="/bloody" className="main__nav__link">Link text</a></li>
                         <li className="main__nav__item"><a href="/webpack" className="main__nav__link">Link text</a></li>
                     </ul>

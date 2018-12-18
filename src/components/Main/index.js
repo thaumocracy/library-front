@@ -7,7 +7,7 @@ class Main extends Component {
     render() {
         return (
             <main className="main__content">
-                <Category />
+                <Category search={this.props.search}/>
             </main>
         )
     }

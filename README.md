@@ -1,1 +1,1 @@
-Every picture belongs to whatever copyright it have,they are just for display purpose.
+Every picture belongs to whatever copyright it have,they are just for something to display.
