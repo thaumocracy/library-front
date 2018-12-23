@@ -10,6 +10,7 @@ class Main extends Component {
         const adviceArray = Books.filter(book => book.finished !== true);
         const adviceItem = Math.floor(Math.random() * adviceArray.length);
         const advice = adviceArray[adviceItem];
+        return advice;
     }
     render() {
         return (
