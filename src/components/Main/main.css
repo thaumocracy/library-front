@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
 .main__content {
     background-color:#f4faff;
+    position: relative;
 }
