@@ -8,10 +8,13 @@ _todo-todo-todotodotodo_
 - [X] Make some content
 - [X] Make some visual
 - [X] Make basic components
+- [ ] Change item grid to well. CSS Grid.
+- [ ] Rebuild everithing to SASS
 - [ ] Find a way to load parts of items
 - [ ] Find a way to search working properly with it.
 - [ ] Finish BBC200 content
 - [ ] Finish Norway club lib
+- [ ] Tinify images
 - [ ] Merge the stuff
 - [ ] Make a Mongo database
 - [ ] in progress
