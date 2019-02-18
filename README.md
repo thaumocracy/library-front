@@ -10,6 +10,7 @@ _todo-todo-todotodotodo_
 - [X] Make basic components
 - [ ] Change item grid to well. CSS Grid.
 - [ ] Rebuild everithing to SASS
+- [ ] Make some initial markup loaded from server
 - [ ] Find a way to load parts of items
 - [ ] Find a way to search working properly with it.
 - [ ] Finish BBC200 content
