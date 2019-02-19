@@ -18,6 +18,7 @@ _todo-todo-todotodotodo_
 - [ ] Tinify images
 - [ ] Merge the stuff
 - [ ] Make a Mongo database
+- [ ] Make the user preferences
 - [ ] in progress
 - [ ] in progress
 - [ ] Test coverage
