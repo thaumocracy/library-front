@@ -17,6 +17,7 @@ _todo-todo-todotodotodo_
 - [ ] Finish Norway club lib
 - [ ] Tinify images
 - [ ] Merge the stuff
+- [ ] Add redux
 - [ ] Make a Mongo database
 - [ ] Make the user preferences
 - [ ] in progress
