@@ -1,6 +1,6 @@
 .main__header {
     font-family: 'Cormorant', serif;
-    background-color: rgb(44, 43, 58);
+    background-color: rgb(3, 3, 5,0.4);
     font-size:1.3rem;
 }
 .main__nav{
@@ -26,7 +26,8 @@
 }
 
 .main__nav__link:hover{
-    background-color:#fff;
-    color: rgb(44, 43, 58);
+    background:rgba(255,255,255, 0.3);;
+    color:black;
+    border-bottom:3px solid rgb(48, 0, 48);
 }
 
