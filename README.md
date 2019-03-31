@@ -16,6 +16,7 @@ _todo-todo-todotodotodo_
 - [ ] Finish BBC200 content
 - [ ] Finish Norway club lib
 - [ ] Tinify images
+- [ ] add WebP alternatives
 - [ ] Merge the stuff
 - [ ] Add redux
 - [ ] Make a Mongo database
@@ -25,3 +26,6 @@ _todo-todo-todotodotodo_
 - [ ] Test coverage
 - [ ] in progress
 - [ ] Deploy the stuff
+- [ ] Add the cinema stuff
+- [ ] Add series
+- [ ] Fix some descriptions
