@@ -25,7 +25,8 @@ _todo-todo-todotodotodo_
 - [ ] in progress
 - [ ] Test coverage
 - [ ] in progress
+- [ ] Add links to Ozon.ru
 - [ ] Deploy the stuff
 - [ ] Add the cinema stuff
-- [ ] Add series
+- [ ] Add series and links to them
 - [ ] Fix some descriptions
