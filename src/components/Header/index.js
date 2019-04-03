@@ -7,12 +7,16 @@ class Header extends Component {
             <header className="main__header">
                 <nav className="main__nav">
                     <ul className="main__nav__list">
-                        <li className="main__nav__item"><a href="/please" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="/stop" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="/warning" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><input onChange={(event) => this.props.handleSearch(event)} type="search" className="main__nav__link"/></li>
-                        <li className="main__nav__item"><a href="/bloody" className="main__nav__link">Link text</a></li>
-                        <li className="main__nav__item"><a href="/webpack" className="main__nav__link">Link text</a></li>
+                        <li className="main__nav__item"><a href="/please" className="main__nav__link">Home</a></li>
+                        <li className="main__nav__item">
+                        <input 
+                            onChange={(event) => this.props.handleSearch(event)} 
+                            type="search" 
+                            className="main__nav__link"
+                            placeholder="Search"
+                        />
+                        </li>
+                        <li className="main__nav__item"><a href="/some" className="main__nav__link"><img src="../../assets/background.jpg" alt="img"/></a></li>
                     </ul>
                 </nav>
             </header>
