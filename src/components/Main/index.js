@@ -8,16 +8,17 @@ class Main extends Component {
 
     state = {
         advisor : true,
-        books : []
+        books : [],
     }
+
 
     componentDidMount(){
         fetch('http://127.0.0.1:3005/')
         .then(data => data.json())
         .then(books => {
             console.log(books)
-            this.setState({books:books})}
-            )
+            this.setState({books:books})
+        })
     }
 
     // adviseBook = () =>{

@@ -5,9 +5,14 @@ import Footer from './components/Footer'
 import './App.css';
 
 class App extends Component {
-    state = {
-      search:""
+  state = {
+    search:""
   }
+
+  componentDidMount() {
+    window.addEventListener('scroll', this.handleScroll, true);
+  }
+  
 
   handleSearch = (event) => {
       const search = event.target.value
@@ -15,11 +20,14 @@ class App extends Component {
       console.log(this.state.search);
   }
 
+  handleScroll = (event) => {
+    console.log('[HandleScroll working]')
+  }
   render() {
     return (
       <div className="app-container">
         <Header handleSearch={this.handleSearch}/>
-        <Main search={this.state.search}/>
+        <Main search={this.state.search} onScroll={this.handleScroll}/>
         <Footer />
       </div>
     );

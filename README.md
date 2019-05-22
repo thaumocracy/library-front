@@ -15,8 +15,10 @@ _todo-todo-todotodotodo_
 - [ ] Find a way to search working properly with it.
 - [X] Finish BBC200 content
 - [ ] Finish Norway club lib
+- [ ] Add labels for lists
 - [X] Tinify images
 - [X] add WebP alternatives
+- [ ] Add PropTypes
 - [ ] Merge the stuff
 - [ ] Add redux
 - [ ] Make a Mongo database
