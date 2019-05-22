@@ -1,6 +1,6 @@
 .item {
     overflow: auto;
-    width:25%;
+    width:20%;
     align-items: stretch;
     display: flex;
     flex-direction: column;
@@ -14,8 +14,12 @@
     width:auto;
 }
 
-.item__title{
+.item__title {
     text-align: center;
+    padding:5px;
+}
+.author__title {
+    font-size:1rem;
 }
 .item__inner{
     display: flex;

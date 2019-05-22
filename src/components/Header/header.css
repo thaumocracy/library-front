@@ -5,27 +5,44 @@
     align-items: center;
     list-style-type: none;
     margin:0 auto;
+    margin-bottom:20px;
 }
 
 .main__nav__item {
     width:100%;
     padding:20px;
+    font-size:1.5rem;
 }
-
+.main__nav__link {
+    text-decoration:none;
+    color:rgb(70, 71, 71);
+}
 .link {
     width:20%;
     padding:10px;
 }
 .search {
-    margin-left:30%;
+    margin-left:40%;
     padding:10px;
     border-radius:10px;
-    width:70%;
+    width:60%;
+    outline:none;
+    border:1px solid rgb(196, 197, 198);
 }
 
 .search::placeholder {
     font-size:1.5rem;
-    color:lightblue;
+    color: rgb(196, 197, 198);
     text-align: right;
     font-style: italic;
+}
+
+.fixed {
+    position: fixed;
+    top:0;
+    left:0;
+    z-index:9999;
+    width:100%;
+    background-color: darkblue;
+    transition: 0.5s all;
 }

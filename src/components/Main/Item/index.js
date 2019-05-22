@@ -11,7 +11,7 @@ const Item = (props) => {
   return (
     <div className='item'>
       <h3 className='item__title' >{author}</h3>
-      <h3 className='item__title' style={style}>{title}</h3>
+      <h3 className='item__title author__title' style={style}>{title}</h3>
       <div className='item__inner'>
         <picture className="item__image">
           <source srcSet={`http://localhost:3005/webp/${webp}.webp`} type="image/webp"/>

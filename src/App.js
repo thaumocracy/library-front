@@ -6,7 +6,8 @@ import './App.css';
 
 class App extends Component {
   state = {
-    search:""
+    search:"",
+    fixed:false,
   }
 
   componentDidMount() {
@@ -21,12 +22,21 @@ class App extends Component {
   }
 
   handleScroll = (event) => {
-    console.log('[HandleScroll working]')
+    if(window.pageYOffset < 100 && this.state.fixed){
+      this.setState({fixed:false})
+    }
+    if(window.pageYOffset > 100 && !this.state.fixed){
+      this.setState({fixed:true})
+    }
+    if(window.pageYOffset > window.innerHeight - 50 ){
+      console.log(`[Enlarge your JS]`)
+    }
   }
+
   render() {
     return (
       <div className="app-container">
-        <Header handleSearch={this.handleSearch}/>
+        <Header handleSearch={(event) => this.handleSearch(event)} fixed={this.state.fixed}/>
         <Main search={this.state.search} onScroll={this.handleScroll}/>
         <Footer />
       </div>
