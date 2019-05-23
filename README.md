@@ -22,6 +22,7 @@ _todo-todo-todotodotodo_
 - [ ] Merge the stuff
 - [ ] Add redux
 - [ ] Make a Mongo database
+- [ ] Should it have database at all or firebase will be enough?
 - [ ] Make the user preferences
 - [ ] in progress
 - [ ] in progress
